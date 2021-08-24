@@ -1,4 +1,4 @@
-!https://circleci.com/GH/DiptiNwm/UdacityDevOpsProject4.svg?style=svg!:https://app.circleci.com/pipelines/github/DiptiNwm/UdacityDevOpsProject4
+https://circleci.com/GH/DiptiNwm/UdacityDevOpsProject4/tree/main
 
 ## Project Overview
 
