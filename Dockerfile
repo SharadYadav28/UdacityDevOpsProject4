@@ -10,8 +10,8 @@ COPY . app.py /app/
 
 ## Step 3:
 # Install packages from requirements.txt
-RUN pip install --no-cache-dir --upgrade pip==21.2.4 &&\
-	pip install --no-cache-dir --trusted-host pypi.python.org --requirement requirements.txt
+RUN pip install --upgrade pip==21.1.2 &&\
+	pip install --trusted-host pypi.python.org -r requirements.txt
 
 # hadolint ignore=DL3013
 
@@ -22,4 +22,3 @@ EXPOSE 80
 ## Step 5:
 # Run app.py at container launch
 CMD ["python", "app.py"]
-
