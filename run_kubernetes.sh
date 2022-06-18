@@ -4,7 +4,7 @@
 
 # Step 1:
 # This is your Docker ID/path
-dockerpath=diptinwm/devopsproject4
+dockerpath=sharadyadav28/devopsproject4
 
 # Step 2
 # Run the Docker Hub container with kubernetes
