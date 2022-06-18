@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath=diptinwm/devopsproject4
+dockerpath=sharadyadav28/devopsproject4
 
 # Step 2:  
 # Authenticate & tag
