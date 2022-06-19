@@ -27,6 +27,9 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 
 * Create a virtualenv and activate it
 * Run `make install` to install the necessary dependencies
+* Run below commands to install hadolint on a unix machine
+   1. sudo wget -O /bin/hadolint https://github.com/hadolint/hadolint/releases/download/v1.16.3/hadolint-Linux-x86_64
+   2. sudo chmod +x /bin/hadolint
 
 ### Running `app.py`
 
